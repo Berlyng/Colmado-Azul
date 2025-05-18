@@ -1,0 +1,11 @@
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.common\bin\Debug\net8.0\Colmado_Azul.common.deps.json
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.common\bin\Debug\net8.0\Colmado_Azul.common.dll
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.common\bin\Debug\net8.0\Colmado_Azul.common.pdb
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.common\obj\Debug\net8.0\Colmado_Azul.common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.common\obj\Debug\net8.0\Colmado_Azul.common.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.common\obj\Debug\net8.0\Colmado_Azul.common.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.common\obj\Debug\net8.0\Colmado_Azul.common.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.common\obj\Debug\net8.0\Colmado_Azul.common.dll
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.common\obj\Debug\net8.0\refint\Colmado_Azul.common.dll
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.common\obj\Debug\net8.0\Colmado_Azul.common.pdb
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.common\obj\Debug\net8.0\ref\Colmado_Azul.common.dll

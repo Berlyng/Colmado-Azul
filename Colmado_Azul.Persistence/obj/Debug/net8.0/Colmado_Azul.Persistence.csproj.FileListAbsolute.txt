@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.Persistence\bin\Debug\net8.0\Colmado_Azul.Persistence.deps.json
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.Persistence\bin\Debug\net8.0\Colmado_Azul.Persistence.dll
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.Persistence\bin\Debug\net8.0\Colmado_Azul.Persistence.pdb
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.Persistence\bin\Debug\net8.0\Colamdo_Azul.domain.dll
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.Persistence\bin\Debug\net8.0\Colamdo_Azul.domain.pdb
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.Persistence\obj\Debug\net8.0\Colmado_Azul.Persistence.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.Persistence\obj\Debug\net8.0\Colmado_Azul.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.Persistence\obj\Debug\net8.0\Colmado_Azul.Persistence.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.Persistence\obj\Debug\net8.0\Colmado_Azul.Persistence.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.Persistence\obj\Debug\net8.0\Colmado_Azul.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.Persistence\obj\Debug\net8.0\Colmado_.47114F6F.Up2Date
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.Persistence\obj\Debug\net8.0\Colmado_Azul.Persistence.dll
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.Persistence\obj\Debug\net8.0\refint\Colmado_Azul.Persistence.dll
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.Persistence\obj\Debug\net8.0\Colmado_Azul.Persistence.pdb
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.Persistence\obj\Debug\net8.0\ref\Colmado_Azul.Persistence.dll

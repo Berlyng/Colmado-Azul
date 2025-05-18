@@ -1,0 +1,14 @@
+C:\Users\Administrador\Desktop\Wpf\Colamdo_Azul.domain\bin\Debug\net8.0\Colamdo_Azul.domain.deps.json
+C:\Users\Administrador\Desktop\Wpf\Colamdo_Azul.domain\bin\Debug\net8.0\Colamdo_Azul.domain.dll
+C:\Users\Administrador\Desktop\Wpf\Colamdo_Azul.domain\bin\Debug\net8.0\Colamdo_Azul.domain.pdb
+C:\Users\Administrador\Desktop\Wpf\Colamdo_Azul.domain\obj\Debug\net8.0\Colamdo_Azul.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Wpf\Colamdo_Azul.domain\obj\Debug\net8.0\Colamdo_Azul.domain.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Wpf\Colamdo_Azul.domain\obj\Debug\net8.0\Colamdo_Azul.domain.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Wpf\Colamdo_Azul.domain\obj\Debug\net8.0\Colamdo_Azul.domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Wpf\Colamdo_Azul.domain\obj\Debug\net8.0\Colamdo_Azul.domain.dll
+C:\Users\Administrador\Desktop\Wpf\Colamdo_Azul.domain\obj\Debug\net8.0\refint\Colamdo_Azul.domain.dll
+C:\Users\Administrador\Desktop\Wpf\Colamdo_Azul.domain\obj\Debug\net8.0\Colamdo_Azul.domain.pdb
+C:\Users\Administrador\Desktop\Wpf\Colamdo_Azul.domain\obj\Debug\net8.0\ref\Colamdo_Azul.domain.dll
+C:\Users\Administrador\Desktop\Wpf\Colamdo_Azul.domain\bin\Debug\net8.0\Colamdo_Azul.domain.runtimeconfig.json
+C:\Users\Administrador\Desktop\Wpf\Colamdo_Azul.domain\obj\Debug\net8.0\Colamdo_Azul.domain.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Wpf\Colamdo_Azul.domain\obj\Debug\net8.0\Colamdo_Azul.domain.genruntimeconfig.cache

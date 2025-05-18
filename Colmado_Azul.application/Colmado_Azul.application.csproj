@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Colmado_Azul.common\Colmado_Azul.common.csproj" />
+    <ProjectReference Include="..\Colmado_Azul.infractructure\Colmado_Azul.infractructure.csproj" />
+  </ItemGroup>
+
+</Project>

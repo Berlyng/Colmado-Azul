@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colamdo_Azul.domain", "Colamdo_Azul.domain.csproj", "{33EE545C-8E43-487A-A538-1C73319B58E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colmado_Azul.common", "..\Colmado_Azul.common\Colmado_Azul.common.csproj", "{49C0A77E-586B-4736-BE1E-244E28640504}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colmado_Azul.infractructure", "..\Colmado_Azul.infractructure\Colmado_Azul.infractructure.csproj", "{B062192D-E250-43B8-B2B8-1161EEF70272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colmado_Azul.Persistence", "..\Colmado_Azul.Persistence\Colmado_Azul.Persistence.csproj", "{7E812CC9-AF9B-413D-886A-3D973E971FB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colmado_Azul.application", "..\Colmado_Azul.application\Colmado_Azul.application.csproj", "{ECBCF48B-6707-4150-9606-F9804A6C0592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colmado_Azul.api", "..\Colmado_Azul.api\Colmado_Azul.api\Colmado_Azul.api.csproj", "{564971B3-CC3F-46C1-AC03-A2BC25FE88AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33EE545C-8E43-487A-A538-1C73319B58E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33EE545C-8E43-487A-A538-1C73319B58E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33EE545C-8E43-487A-A538-1C73319B58E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33EE545C-8E43-487A-A538-1C73319B58E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49C0A77E-586B-4736-BE1E-244E28640504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C0A77E-586B-4736-BE1E-244E28640504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C0A77E-586B-4736-BE1E-244E28640504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C0A77E-586B-4736-BE1E-244E28640504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B062192D-E250-43B8-B2B8-1161EEF70272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B062192D-E250-43B8-B2B8-1161EEF70272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B062192D-E250-43B8-B2B8-1161EEF70272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B062192D-E250-43B8-B2B8-1161EEF70272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E812CC9-AF9B-413D-886A-3D973E971FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E812CC9-AF9B-413D-886A-3D973E971FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E812CC9-AF9B-413D-886A-3D973E971FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E812CC9-AF9B-413D-886A-3D973E971FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECBCF48B-6707-4150-9606-F9804A6C0592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBCF48B-6707-4150-9606-F9804A6C0592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBCF48B-6707-4150-9606-F9804A6C0592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBCF48B-6707-4150-9606-F9804A6C0592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564971B3-CC3F-46C1-AC03-A2BC25FE88AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564971B3-CC3F-46C1-AC03-A2BC25FE88AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564971B3-CC3F-46C1-AC03-A2BC25FE88AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564971B3-CC3F-46C1-AC03-A2BC25FE88AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x3xJ9t1uhJ8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.common\\Colmado_Azul.common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

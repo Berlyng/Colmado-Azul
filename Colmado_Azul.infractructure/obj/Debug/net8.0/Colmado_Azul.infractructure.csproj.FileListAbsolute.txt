@@ -1,0 +1,17 @@
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.infractructure\bin\Debug\net8.0\Colmado_Azul.infractructure.deps.json
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.infractructure\bin\Debug\net8.0\Colmado_Azul.infractructure.dll
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.infractructure\bin\Debug\net8.0\Colmado_Azul.infractructure.pdb
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.infractructure\bin\Debug\net8.0\Colamdo_Azul.domain.dll
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.infractructure\bin\Debug\net8.0\Colmado_Azul.Persistence.dll
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.infractructure\bin\Debug\net8.0\Colmado_Azul.Persistence.pdb
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.infractructure\bin\Debug\net8.0\Colamdo_Azul.domain.pdb
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.infractructure\obj\Debug\net8.0\Colmado_Azul.infractructure.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.infractructure\obj\Debug\net8.0\Colmado_Azul.infractructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.infractructure\obj\Debug\net8.0\Colmado_Azul.infractructure.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.infractructure\obj\Debug\net8.0\Colmado_Azul.infractructure.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.infractructure\obj\Debug\net8.0\Colmado_Azul.infractructure.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.infractructure\obj\Debug\net8.0\Colmado_.2988051B.Up2Date
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.infractructure\obj\Debug\net8.0\Colmado_Azul.infractructure.dll
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.infractructure\obj\Debug\net8.0\refint\Colmado_Azul.infractructure.dll
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.infractructure\obj\Debug\net8.0\Colmado_Azul.infractructure.pdb
+C:\Users\Administrador\Desktop\Wpf\Colmado_Azul.infractructure\obj\Debug\net8.0\ref\Colmado_Azul.infractructure.dll

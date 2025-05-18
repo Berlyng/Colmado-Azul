@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Colmado_Azul.api.props" />
+</Project>

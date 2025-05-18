@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colamdo_Azul.domain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{564971B3-CC3F-46C1-AC03-A2BC25FE88AA}|..\\Colmado_Azul.api\\Colmado_Azul.api\\Colmado_Azul.api.csproj|c:\\users\\administrador\\desktop\\wpf\\colmado_azul.api\\colmado_azul.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564971B3-CC3F-46C1-AC03-A2BC25FE88AA}|..\\Colmado_Azul.api\\Colmado_Azul.api\\Colmado_Azul.api.csproj|c:\\users\\administrador\\desktop\\wpf\\colmado_azul.api\\colmado_azul.api\\colmado_azul.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564971B3-CC3F-46C1-AC03-A2BC25FE88AA}|..\\Colmado_Azul.api\\Colmado_Azul.api\\Colmado_Azul.api.csproj|c:\\users\\administrador\\desktop\\wpf\\colmado_azul.api\\colmado_azul.api\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564971B3-CC3F-46C1-AC03-A2BC25FE88AA}|..\\Colmado_Azul.api\\Colmado_Azul.api\\Colmado_Azul.api.csproj|c:\\users\\administrador\\desktop\\wpf\\colmado_azul.api\\colmado_azul.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBCF48B-6707-4150-9606-F9804A6C0592}|..\\Colmado_Azul.application\\Colmado_Azul.application.csproj|c:\\users\\administrador\\desktop\\wpf\\colmado_azul.application\\service\\suplidorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBCF48B-6707-4150-9606-F9804A6C0592}|..\\Colmado_Azul.application\\Colmado_Azul.application.csproj|c:\\users\\administrador\\desktop\\wpf\\colmado_azul.application\\service\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBCF48B-6707-4150-9606-F9804A6C0592}|..\\Colmado_Azul.application\\Colmado_Azul.application.csproj|c:\\users\\administrador\\desktop\\wpf\\colmado_azul.application\\service\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBCF48B-6707-4150-9606-F9804A6C0592}|..\\Colmado_Azul.application\\Colmado_Azul.application.csproj|c:\\users\\administrador\\desktop\\wpf\\colmado_azul.application\\interface\\isuplidoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBCF48B-6707-4150-9606-F9804A6C0592}|..\\Colmado_Azul.application\\Colmado_Azul.application.csproj|c:\\users\\administrador\\desktop\\wpf\\colmado_azul.application\\interface\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBCF48B-6707-4150-9606-F9804A6C0592}|..\\Colmado_Azul.application\\Colmado_Azul.application.csproj|c:\\users\\administrador\\desktop\\wpf\\colmado_azul.application\\interface\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C0A77E-586B-4736-BE1E-244E28640504}|..\\Colmado_Azul.common\\Colmado_Azul.common.csproj|c:\\users\\administrador\\desktop\\wpf\\colmado_azul.common\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.api\\Colmado_Azul.api\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Colmado_Azul.api\\Colmado_Azul.api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.api\\Colmado_Azul.api\\appsettings.json",
+              "RelativeToolTip": "..\\Colmado_Azul.api\\Colmado_Azul.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T00:40:35.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Colmado_Azul.api",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.api\\Colmado_Azul.api\\Colmado_Azul.api.csproj",
+              "RelativeDocumentMoniker": "..\\Colmado_Azul.api\\Colmado_Azul.api\\Colmado_Azul.api.csproj",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.api\\Colmado_Azul.api\\Colmado_Azul.api.csproj",
+              "RelativeToolTip": "..\\Colmado_Azul.api\\Colmado_Azul.api\\Colmado_Azul.api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T00:39:56.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.api\\Colmado_Azul.api\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Colmado_Azul.api\\Colmado_Azul.api\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.api\\Colmado_Azul.api\\Program.cs",
+              "RelativeToolTip": "..\\Colmado_Azul.api\\Colmado_Azul.api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T00:38:53.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.api\\Colmado_Azul.api\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "..\\Colmado_Azul.api\\Colmado_Azul.api\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.api\\Colmado_Azul.api\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "..\\Colmado_Azul.api\\Colmado_Azul.api\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T00:37:44.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuplidorService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.application\\Service\\SuplidorService.cs",
+              "RelativeDocumentMoniker": "..\\Colmado_Azul.application\\Service\\SuplidorService.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.application\\Service\\SuplidorService.cs",
+              "RelativeToolTip": "..\\Colmado_Azul.application\\Service\\SuplidorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T00:03:21.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.application\\Service\\ProductoService.cs",
+              "RelativeDocumentMoniker": "..\\Colmado_Azul.application\\Service\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.application\\Service\\ProductoService.cs",
+              "RelativeToolTip": "..\\Colmado_Azul.application\\Service\\ProductoService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:30:05.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISuplidoraService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.application\\Interface\\ISuplidoraService.cs",
+              "RelativeDocumentMoniker": "..\\Colmado_Azul.application\\Interface\\ISuplidoraService.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.application\\Interface\\ISuplidoraService.cs",
+              "RelativeToolTip": "..\\Colmado_Azul.application\\Interface\\ISuplidoraService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:21:27.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.application\\Interface\\IProductoService.cs",
+              "RelativeDocumentMoniker": "..\\Colmado_Azul.application\\Interface\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.application\\Interface\\IProductoService.cs",
+              "RelativeToolTip": "..\\Colmado_Azul.application\\Interface\\IProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:21:20.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.application\\Service\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "..\\Colmado_Azul.application\\Service\\CategoriaService.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.application\\Service\\CategoriaService.cs",
+              "RelativeToolTip": "..\\Colmado_Azul.application\\Service\\CategoriaService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:10:01.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.common\\Dtos\\CategoriaDto.cs",
+              "RelativeDocumentMoniker": "..\\Colmado_Azul.common\\Dtos\\CategoriaDto.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.common\\Dtos\\CategoriaDto.cs",
+              "RelativeToolTip": "..\\Colmado_Azul.common\\Dtos\\CategoriaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:09:03.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.application\\Interface\\ICategoriaService.cs",
+              "RelativeDocumentMoniker": "..\\Colmado_Azul.application\\Interface\\ICategoriaService.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Wpf\\Colmado_Azul.application\\Interface\\ICategoriaService.cs",
+              "RelativeToolTip": "..\\Colmado_Azul.application\\Interface\\ICategoriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:08:08.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
